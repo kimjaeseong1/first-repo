@@ -2,17 +2,17 @@
 
 This menu choice to practice git.
 
-## Index
+## Menus
 
-menu 
+
 1. chicken
 2. meet
 3. beef
 
 ## New candidates
 
-4. Kimchi soup
-5. Soy sauce soup
+4. Stramed Kimchi
+5. Chung-gook-jang
 6. Troops soup
 7. Bibimbop
 
