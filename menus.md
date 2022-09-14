@@ -2,7 +2,8 @@
 
 This menu choice to practice git.
 
-## Menus
+
+## Menu for lunch
 
 
 1. chicken
@@ -11,8 +12,8 @@ This menu choice to practice git.
 
 ## New candidates
 
-4. Stramed Kimchi
-5. Chung-gook-jang
-6. Troops soup
+4. Steak
+5. Pizza
+6. Dount
 7. Bibimbop
 
